@@ -1,30 +1,40 @@
-# Supermarket website
+Projeto 1 – Controle de Fluxo de uma Microempresa
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Software para Caixa de Supermercado
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sites231s-projects/v0-supermarket-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/EBGWPrwqJ5O)
+Este repositório contém o desenvolvimento do Projeto 1 da disciplina, realizado de forma individual, com valor final.
 
-## Overview
+📌 Proposta da Atividade
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Vocês foram contratados pela empresa VM Softwares como estagiários de desenvolvimento.
+O primeiro projeto é criar um software para caixas de supermercado, com as seguintes especificações:
 
-## Deployment
+Requisitos Obrigatórios
 
-Your project is live at:
+O sistema deve apresentar nota fiscal contendo:
 
-**[https://vercel.com/sites231s-projects/v0-supermarket-website](https://vercel.com/sites231s-projects/v0-supermarket-website)**
+Produtos
 
-## Build your app
+Quantidade
 
-Continue building your app on:
+Valor total
 
-**[https://v0.app/chat/projects/EBGWPrwqJ5O](https://v0.app/chat/projects/EBGWPrwqJ5O)**
+O sistema deve oferecer mais de uma forma de pagamento, permitindo ao usuário escolher entre:
 
-## How It Works
+Débito
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Crédito
+
+Pix
+
+Dinheiro
+
+O sistema deve solicitar e armazenar os dados do cliente:
+
+Nome
+
+Contato
+
+CPF
+
+O sistema deve ser feito com interface gráfica, com layout livre, desde que apresente todas as funcionalidades listadas acima.
